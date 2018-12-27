@@ -1,0 +1,5 @@
+/home/stilyssk/CSharp/MultiplyBigNumber/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/stilyssk/CSharp/MultiplyBigNumber/bin/Debug/MultiplyBigNumber.exe.mdb
+/home/stilyssk/CSharp/MultiplyBigNumber/bin/Debug/MultiplyBigNumber.exe
+/home/stilyssk/CSharp/MultiplyBigNumber/obj/x86/Debug/MultiplyBigNumber.exe
+/home/stilyssk/CSharp/MultiplyBigNumber/obj/x86/Debug/MultiplyBigNumber.exe.mdb
